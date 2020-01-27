@@ -1,6 +1,6 @@
 # Mining maximal span-trusses from temporal graphs
 
-This is the code of the paper "Mining maximal span-trusses".
+This is the code of the paper "Mining maximal span-trusses from temporal graphs".
 
 ## Compiling
 To replicate the results of the paper you need the `-O3` optimization when compiling with g++.
