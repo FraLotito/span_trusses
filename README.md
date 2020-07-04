@@ -1,6 +1,6 @@
-# Mining maximal span-trusses from temporal graphs
+# Efficient Algorithms to Mine Maximal Span-Trusses From Temporal Graphs
 
-Code of the paper "Mining maximal span-trusses from temporal graphs".
+Code of the paper "Efficient Algorithms to Mine Maximal Span-Trusses From Temporal Graphs".
 
 ## Compiling
 To replicate the results of the paper you need the `-O3` optimization when compiling with g++.
