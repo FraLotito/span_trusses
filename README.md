@@ -8,5 +8,5 @@ To replicate the results of the paper you need the `-O3` optimization when compi
 `g++ file.cpp -std=c++11 -O3 -o file`
 
 ## References
-We relied on the in-memory truss-decomposition algorithm from [Truss Decomposition in Massive Networks](https://github.com/cntswj/truss-decomposition).
-We follow a similar approach to [Mining (maximal) Span-cores from Temporal Networks ](https://github.com/egalimberti/span_cores). 
+* [Truss Decomposition in Massive Networks](https://github.com/cntswj/truss-decomposition).
+* [Mining (maximal) Span-cores from Temporal Networks ](https://github.com/egalimberti/span_cores). 
