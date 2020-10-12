@@ -6,7 +6,7 @@ Code of the paper ["Efficient Algorithms to Mine Maximal Span-Trusses From Tempo
 `g++ file.cpp -std=c++11 -O3 -o file`
 
 ## Datasets
-Datasets available upon request.
+More datasets available upon request.
 
 ## References
 * [Truss Decomposition in Massive Networks](https://github.com/cntswj/truss-decomposition)
